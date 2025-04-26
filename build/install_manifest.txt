@@ -1,0 +1,2 @@
+/usr/local/lib/libneutrino_trng.so
+/usr/local/include/neutrino_trng/neutrino_trng.h
